@@ -2,4 +2,5 @@
 /logs/
 /.idea/
 code/evaluator_series/evaluators/__pycache__/
-outs
+/outs/
+/cevalenv/
